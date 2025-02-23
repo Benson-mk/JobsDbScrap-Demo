@@ -23,4 +23,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The ibipiano folder will be automatically generated in the current directory and the Scrap job spots will be saved in this folder.
+The `jobsdb_jobs.csv` will be automatically generated in the current directory and the Scrap job spots will be saved in this `.csv`.
